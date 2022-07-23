@@ -28,6 +28,21 @@
   color: #61dafb;
 }
 
+.carta-estudios {
+  border:  1px solid #F28705;
+  transition: 0.1s linear;
+}
+
+.carta-estudios:hover{
+  background-color:#D97904;
+  transition: 0.1s linear;
+}
+
+.caja-icon{
+  background-color:#D97904;
+  /* width: 6rem; */
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
